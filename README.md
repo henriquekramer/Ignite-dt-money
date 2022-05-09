@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#-about-the-project">Sobre o Projeto</a> •
+ • <a href="#-projeto">Projeto</a> •
   <a href="#-layout">Layout</a> •
-  <a href="#-technologies">Tecnologias</a> •
-  <a href="#-getting-started">Instalação e Uso</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-instalação-e-uso">Instalação e Uso</a> 
 </p>
 
 <!-- <p align="center">
